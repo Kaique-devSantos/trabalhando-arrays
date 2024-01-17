@@ -1,3 +1,5 @@
+//neste exercicio ele nos deu a const funcionarios pronta e o desafio e imprimir a seguinte frase Leonardo tem idade 28
+
 const funcionarios = [
     ["Ana", "Juliana", "Leonardo"],
     [30, 35, 28]
